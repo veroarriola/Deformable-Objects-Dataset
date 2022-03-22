@@ -1,0 +1,7 @@
+#Label	Movable		Type					Initial Shape    Tracker:NHueSlices Rings MaxDistance MinDistance MinAngle BlurKernelSize CannyRatio
+finger     1			solid					[circle (723.0,145.0) 30.0]
+#plasticine     1			deformable		[rectangle (537.0,238.0) (897.0,453.0)]
+#plasticine     1			deformable		[intpolygon [537, 238] [897, 238] [897, 453] [537, 453]]
+plasticine     1			deformable		[intpolygon [532, 238] [897, 238] [897, 453] [532, 453]] [9 12 14 3 33 9 3]
+table      0			constraint		[rectangle (0.0,453.0) (1288.0,964.0)]
+

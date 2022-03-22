@@ -1,2 +1,2 @@
 # Deformable-Objects-Dataset
-Videos and forces of interactions with deformable objects
+Videos and forces of interactions with deformable objects.

@@ -1,0 +1,6 @@
+#Label	Movable		Type					Initial Shape
+#finger     1			solid					[circle (663.0,460.0) 32.0]
+finger     1			solid					[circle (652.0,441.0) 32.0]
+bread      1			deformable		[rectangle (440.0,506.0) (860.0,764.0)]
+table      0			constraint		[rectangle (0.0,764.0) (1288.0,964.0)]
+

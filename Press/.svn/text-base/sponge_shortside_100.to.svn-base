@@ -1,0 +1,5 @@
+#Label	Movable		Type					Initial Shape
+finger     1			solid					[circle (615.0,203.0) 30.0]
+sponge     1			deformable		[intpolygon [495, 240] [731, 240] [731, 630] [495, 630]]
+table      0			constraint		[rectangle (0.0,630.0) (1288.0,964.0)]
+
