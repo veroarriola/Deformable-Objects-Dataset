@@ -1,5 +1,0 @@
-#Label	Movable		Type					Initial Shape    Tracker:NHueSlices Rings MaxDistance MinDistance MinAngle BlurKernelSize CannyRatio
-finger     1			solid					[circle (615.0,313.0) 30.0]
-sponge     1			deformable		[intpolygon [430, 390] [815, 390] [815, 620] [430, 620]] [9 15 14 4 33 9 3]
-table      0			constraint		[rectangle (0.0,620.0) (1288.0,964.0)]
-
